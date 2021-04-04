@@ -59,7 +59,7 @@
                                             <h5>Rp{{ totalHarga }}</h5>
                                         </div>
                                         <div class="select-button">
-                                            <a href="#" class="primary-btn view-card"><router-link to="/cart" style="color:#FFF;">VIEW CARD</router-link></a>
+                                            <a href="#" class="primary-btn view-card"><router-link to="/cart" style="color:#FFF;">VIEW CART</router-link></a>
                                             <a href="#" class="primary-btn checkout-btn">CHECK OUT</a>
                                         </div>
                                     </div>
@@ -78,7 +78,7 @@
                                             <h5>Rp0</h5>
                                         </div>
                                         <div class="select-button">
-                                            <a href="#" class="primary-btn view-card">VIEW CARD</a>
+                                            <a href="#" class="primary-btn view-card">VIEW CART</a>
                                             <a href="#" class="primary-btn checkout-btn">CHECK OUT</a>
                                         </div>
                                     </div>
